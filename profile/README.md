@@ -6,7 +6,7 @@
 
 **Tu asistente de IA todo en uno. Un solo pago, sin suscripciones.**
 
-[Abrir Pollo Assistance](https://pollo-assistance.web.app) · [Wiki oficial](https://polloassistance.github.io/wiki/) · [Documentación](https://github.com/cornypalomita2012-max/Pollo-assistance-docs_Official-Repo/)
+[Abrir Pollo Assistance](https://pollo-assistance.web.app) · [Wiki oficial](https://polloassistance.github.io/wiki/) · [Página oficial](https://polloassistance.github.io/) · [Documentación](https://github.com/cornypalomita2012-max/Pollo-assistance-docs_Official-Repo/)
 
 </div>
 
